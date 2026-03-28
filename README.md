@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Header Banner (gradient only, no text) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:131B2E,100:D4A853&height=200&section=header&animation=fadeIn" width="100%" />
-
-# Yusuf Ayık
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:131B2E,100:D4A853&height=300&section=header&text=Yusuf%20Ay%C4%B1k&fontSize=52&fontColor=F1F5F9&fontAlignY=30&desc=Founder%20at%20Adaltek%20%C2%B7%20Computer%20Engineer&descSize=18&descColor=D4A853&descAlignY=48&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4A853&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=30&lines=Founder+%26+CEO+at+Adaltek;Computer+Engineer;Modern+ERP+Developer;Building+Fintech+Infrastructure;Shipping+Real-Time+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4A853&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=45&lines=Founder+%26+CEO+at+Adaltek;Computer+Engineer;Modern+ERP+Developer;Building+Fintech+Infrastructure;Shipping+Real-Time+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -108,27 +106,9 @@
 
 <br/>
 
-## :snake: Contributions
-
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aykyusuf/aykyusuf/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aykyusuf/aykyusuf/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/aykyusuf/aykyusuf/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=aykyusuf&color=D4A853&style=flat-square&label=Profile+Views)
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A853,50:131B2E,100:0A0E1A&height=120&section=footer" width="100%" />
