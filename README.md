@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:131B2E,100:D4A853&height=300&section=header&text=Yusuf%20Ay%C4%B1k&fontSize=52&fontColor=F1F5F9&fontAlignY=30&desc=Founder%20at%20Adaltek%20%C2%B7%20Computer%20Engineer&descSize=18&descColor=D4A853&descAlignY=48&animation=fadeIn" width="100%" />
+<!-- Header Banner (gradient only, no text) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:131B2E,100:D4A853&height=200&section=header&animation=fadeIn" width="100%" />
+
+# Yusuf Ayık
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4A853&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=30&lines=Founder+%26+CEO+at+Adaltek;Computer+Engineer;Modern+ERP+Developer;Building+Fintech+Infrastructure;Shipping+Real-Time+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4A853&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=30&lines=Founder+%26+CEO+at+Adaltek;Computer+Engineer;Modern+ERP+Developer;Building+Fintech+Infrastructure;Shipping+Real-Time+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -106,23 +108,9 @@
 
 <br/>
 
-## :bar_chart: GitHub Stats
+## :snake: Contributions
 
 <div align="center">
-
-<!-- Streak Stats -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=aykyusuf&theme=github-dark-blue&ring=D4A853&fire=F0C66A&currStreakLabel=D4A853&sideLabels=D4A853&border=131B2E&background=0A0E1A&stroke=131B2E&dates=94A3B8&sideNums=F1F5F9&currStreakNum=F1F5F9" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aykyusuf&bg_color=0A0E1A&color=D4A853&line=D4A853&point=F0C66A&area_color=131B2E&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</a>
-
-<br/><br/>
 
 <!-- Snake Animation -->
 <picture>
